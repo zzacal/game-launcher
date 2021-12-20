@@ -1,6 +1,8 @@
 # game-launcher
 An executable that launches a game via a url (like through an epic url).
+```
 game-launcher.exe "epic.something://1232412/" "game_executable_name"
+```
 
 ## background
 This is based on the guide from https://seanzwrites.com/posts/how-to-play-epic-games-on-steam-and-steamlink/.
